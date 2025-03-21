@@ -1,5 +1,7 @@
 package src.org.howard.edu.lsp.midterm.question2;
-
+/**
+ * The Book Class is used to create Book objects with information.
+ */
 public class Book {
     // Private attributes for encapsulation
     private String title;

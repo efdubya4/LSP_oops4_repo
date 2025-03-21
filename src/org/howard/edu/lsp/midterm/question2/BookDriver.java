@@ -1,8 +1,10 @@
 package src.org.howard.edu.lsp.midterm.question2;
-/* The Book Driver class is used to test the Book class by:
-Creating instances of the Book class.
-Testing the equals method to compare Book objects.
-Testing the toString method to display Book details. */
+/**
+ * The Book Driver class is used to test the Book Class by:
+ * Creating instances of the Book Class.
+ * Testing the equals method to compare Book Objects.
+ * Testing the toString method to display Book details. 
+ */
 public class BookDriver {
     public static void main(String[] args) {
         // Create Book objects

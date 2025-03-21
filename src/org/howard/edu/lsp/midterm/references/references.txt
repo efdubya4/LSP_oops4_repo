@@ -1,0 +1,4 @@
+For online refereneces, 
+I referenced deepseek.com to generate formatting for javadocs on a few classes and for comparing my solutions for the CRC cards in question1. No code was copied and pasted, but only used as reference to ensure thorough answers. 
+Thanks!
+Foster Ware IV

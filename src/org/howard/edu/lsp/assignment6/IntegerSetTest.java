@@ -1,4 +1,4 @@
-package src.org.howard.edu.lsp.assignment6;
+package org.howard.edu.lsp.assignment6;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;

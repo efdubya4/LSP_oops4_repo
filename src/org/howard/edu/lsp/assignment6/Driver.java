@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.assignment6;
+package src.org.howard.edu.lsp.assignment6;
 
 /**
  * Test driver for the IntegerSet class
